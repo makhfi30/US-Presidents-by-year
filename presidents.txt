@@ -5,4 +5,7 @@ Garfield
 Roosevelt part 1
 Roosevelt part 2 the redux
 All those Bushes
-Current dude
+Bill Clinton
+George W. Bush
+Barack Obama
+Donald Trump
